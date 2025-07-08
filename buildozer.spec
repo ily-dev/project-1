@@ -48,7 +48,7 @@ source.url = https://downloads.sourceforge.net/freetype/freetype-2.10.1.tar.xz
 #presplash.filename = %(source.dir)s/data/presplash.png
 
 # (str) Icon of the application
-icon.filename = %(source.dir)s/data/icon.ico
+icon.filename = %(source.dir)s/icon.ico
 
 # (list) Supported orientations
 # Valid options are: landscape, portrait, portrait-reverse or landscape-reverse
