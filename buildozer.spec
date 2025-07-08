@@ -45,7 +45,7 @@ source.url = https://downloads.sourceforge.net/freetype/freetype-2.10.1.tar.xz
 # requirements.source.kivy = ../../kivy
 
 # (str) Presplash of the application
-#presplash.filename = %(source.dir)s/data/presplash.png
+presplash.filename = %(source.dir)s/icon.ico
 
 # (str) Icon of the application
 icon.filename = %(source.dir)s/icon.ico
